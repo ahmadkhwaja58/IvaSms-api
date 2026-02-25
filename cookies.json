@@ -1,1 +1,17 @@
-#Your Json Formated Cookies Here
+[
+  {
+    "name": "cf_clearance",
+    "value": "NvqsXqmujw49uiKWf9fbmiZwHH01qn6jFBTTYrskAjo-1772021748-1.2.1.1-cTGCfpNm50mKcphM1MwZ0N464nid5VSyQCJZ4E9vZkj6ZTztrYU6wnjUvvQ8PPtFp7x9nVvCRni3ly0bEHMkAM0QCfB4T2RUTgldn.6XgFtK.VWhc.OT1aANKttGbmGPorx9by1N41NUiAgPkiUrMfapseQxH8jMitslZho20ifIZ2g52fAC5R.UegcA2F7RHrayoncYQ6DSjmett5q7YE7pXFT15U0alFBDpQCAi_M",
+    "domain": ".ivasms.com"
+  },
+  {
+    "name": "ivas_sms_session",
+    "value": "eyJpdiI6IlBsQmJTVGxBM0NWclJ5YUVFZEFKNnc9PSIsInZhbHVlIjoiTU9mMGdxUjhOWm1RbS9Bbmp0RzQ3bUJSY3dtclc0V0NTQWUyZVJmTXBHVUJScktuc2c5RE5TMzdrbjdaSVJtY3lHeDdSMXpvV0FYcTNWS1pSMjNDZmpyZ1BjaWZGTk9uUk5OUzU5S0l4VjNwcGE3Q2xYMnNpdW9Zb1F5Qng2ZEwiLCJtYWMiOiIwZWU4ZTQzNjJlNTRmYTFiZTgyYmMzMzRjNTZiYjhiZTRiODVjYTM5ODllNDI0NzBkMGE0MzJlYzYyNDE0YjhmIiwidGFnIjoiIn0%3D",
+    "domain": "www.ivasms.com"
+  },
+  {
+    "name": "XSRF-TOKEN",
+    "value": "eyJpdiI6IjhRdmIwNjZ4aWQybU81S0xLSHlaWXc9PSIsInZhbHVlIjoiYnpSTkl6bFh4RjVDSEZ2WWR4NzFzck8xc1FxTFVmdEV1UWRUc1JQdEplb29WNGlXVFRwQll6c2NTeXIydTlRSlNlcEJKdlB0TFA4QzVvb0Nra3NVYkN6MXpFdGVvZSs3bzFTVytIZGtFNE1kT0tVcm1COVRQNjJpYVlNTW5DTXEiLCJtYWMiOiI4MThjZTVmZDRmM2M3ODhhZDc2MWVkZDgyMTE3ZjBjMGM4YjZhMGMyZDVjNjQ5ZjZlNmM3NzQwYzBiYmI4NTAyIiwidGFnIjoiIn0%3D",
+    "domain": "www.ivasms.com"
+  }
+]
